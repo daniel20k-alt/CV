@@ -1,6 +1,8 @@
 ## My CV
 
-Shortcut to the [CV editor on GitHub] (https://github.com/patternUnknown/CV/edit/gh-pages/index.md) for maintenance and preview purposes.
+Shortcut to the [CV editor on GitHub](https://github.com/patternUnknown/CV/edit/gh-pages/index.md) for maintenance and preview purposes.
+
+Jekyll [configuration](https://jekyllrb.com/docs/configuration/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
