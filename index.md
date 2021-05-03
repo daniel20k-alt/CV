@@ -8,6 +8,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 👨‍💻 Technical Swift Knowlegde and Experience 
 
 
+### 👨‍💻🕹📱Past and Current Projects
+
+
+### 🏢 Finance Experience
+
+
+### 🏫👨‍🎓 Studies and Education
+
+
+### 🌍 Languages spoken
 
 
 ### Markdown
