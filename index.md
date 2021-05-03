@@ -1,8 +1,14 @@
-## Welcome to my CV
+## My CV
 
-You can use the [editor on GitHub](https://github.com/patternUnknown/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Shortcut to the [CV editor on GitHub] (https://github.com/patternUnknown/CV/edit/gh-pages/index.md) for maintenance and preview purposes.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+### 👨‍💻 Technical Swift Knowlegde and Experience 
+
+
+
 
 ### Markdown
 
